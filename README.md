@@ -1,2 +1,2 @@
 # check
-check test
+check test gidcommand
